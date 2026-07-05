@@ -3,7 +3,7 @@ This repository implements STD-Hunter method, a novel machine learning approach 
 ![](https://github.com/YangLabHKUST/STD-Hunter/blob/main/Framework.png)
 
 ## Data
-The chlorophyll-a (Chl_a) concentration and sea surface temperature (SST) data is publicly available in [MODIS Aqua projects](https://search.earthdata.nasa.gov/search?q=10.5067/AQUA/MODIS/L3M). We also provide the used data in [MODIS data](https://1drv.ms/f/c/b3d2524e648698c4/IgDP_yTOD3GyTZ594gUkNt7VATW28vE34CWBJ1KqkMZqdCk?e=5cqQLv).
+The chlorophyll-a (Chl_a) concentration and sea surface temperature (SST) data is publicly available in [MODIS Aqua projects](https://search.earthdata.nasa.gov/search?q=10.5067/AQUA/MODIS/L3M). We also provide the used data in [MODIS data](https://doi.org/10.5281/zenodo.21203532).
 
 ## Reference
 If you find the ```STD-Hunter``` package or any of the source code in this repository useful for your work, please cite:
